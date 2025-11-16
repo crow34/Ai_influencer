@@ -1,0 +1,8 @@
+{
+  "name": "AI Influencer Studio",
+  "description": "A comprehensive suite of AI tools to create, manage, and generate content for your virtual influencer. Generate consistent character images, edit them with text prompts, create videos, chat with your influencer's persona, generate strategic content, and even give them a voice with TTS.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
